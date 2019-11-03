@@ -6,7 +6,7 @@ CSS listar, töflur og form
 2.  Vinnið í HTML skjalinu
 2.1 Setjið titil í skjalið og búið til tengingu við CSS skjalið
 2.2 Setjið upp heading 1 tagg og setjið textann "Poetry Workshops" þar
-2.3 Setjið upp p tagg sem inniheldur textann "We will be conducting a number of poetry workshops and symposiums throughout the year."
+                                                                 2.3 Setjið upp p tagg sem inniheldur textann "We will be conducting a number of poetry workshops and symposiums throughout the year."
 2.4 Setjið upp p tagg sem inniheldur textann "Please note that the following events are free to members:"
 2.5 Setjið upp tagg fyrir óraðanlista
 2.5.1 Setjið upp listatagg sem inniheldur textann "A Poetic Perspective"
@@ -30,13 +30,13 @@ CSS listar, töflur og form
 2.6.3.1 Búið til table head sem inniheldur "Walt Whitman at War"
 2.6.3.2 Búið til dálk sem inniheldur "Sat, 7 Apr 2012<br />11am - 1pm"
 2.6.3.3 Búið til dálk sem inniheldur "Sat, 5 May 2012<br />11am - 1pm"
-2.6.3.4 Búið til dálk sem inniheldur "Sat, 19 May 2012<br />11am - 1pm"
+2.6.3.4b Búið til dálk sem inniheldur "Sat, 19 May 2012<br />11am - 1pm"
 
 2.6.4 Búið til röð
 2.6.4.1 Búið table head sem inniheldur "Found Poems &amp; Outsider Poetry"
 2.6.4.2 Búið til dálk sem inniheldur "Sat, 9 Jun 2012<br />11am - 2pm"
 2.6.4.3 Búið til dálk sem inniheldur "Sat, 7 Jul 2012<br />11am - 2pm"
-2.6.4.4 Búið til dálk sem inniheldur "Sat, 21 Jul 2012<br />11am - 2pm"
+2.6.4.4b Búið til dálk sem inniheldur "Sat, 21 Jul 2012<br />11am - 2pm"
 
 2.6.5 Búið til röð sem er með class "even"
 2.6.5.1 Búið til table head með "Natural Death: An Exploration"
@@ -52,7 +52,7 @@ CSS listar, töflur og form
 2.7.1.2.2 Búið til input tagg fyrir texta dálk, Látið hann fá nafnið "name" og id "name"
 2.7.1.2.3 Búið til tagg fyrir línubil
 2.7.1.2.4 Búið til label tagg sem er með class "title, merkið það við idið "email" og inniheldur textann "Your email:"
-2.7.1.2.5 Búið til input tagg fyrir email. Látið hann fá nafnið "email" og id "email"
+2.7.1.2.5 bBúið til input tagg fyrir email. Látið hann fá nafnið "email" og id "email"
 
 2.7.1.3 Búið til p tagg
 2.7.1.3.1 Búið til label, gefið class "title" og merkið við idið "location" og látið með textann "Your closest center:"
@@ -66,18 +66,18 @@ CSS listar, töflur og form
 2.7.1.6 Búið til label tagg sem inniheldur input tagg með radio týpunni, nafnið "member" og gildið "no" og textann no
 
 2.7.2 Búið til div tagg með class "submit"
-2.7.2.1 Búið til input taggið með týpuna submit og gildið "Register"
+2.7.2.1b Búið til input taggið með týpuna submit og gildið "Register"
 
 3.  Vinnið í CSS skjalinu
 3.1 Hafið áhrif á body
 3.1.1 Notið fontana Arial, Verdana, sans-serif
 3.1.2 Setjið letur stærðina í 90%
 3.1.3 Setjið letur litinn í #666666
-3.1.4 Setjið bakgrunnslitinn í #f8f8f8
+3.1.4 bSetjið bakgrunnslitinn í #f8f8f8
 
 3.2 Hafið áhrif á li töggin
 3.2.1 Notið skipunina list-style-image til þess að setja inn myndina icon-plus.png
-3.2.2 Setjið línu hæðina í 1.6em
+3.2.2b Setjið línu hæðina í 1.6em
 
 3.3 Hafið áhrif á table
 3.3.1 Setjið border spacing í 0 pixla
@@ -90,7 +90,7 @@ CSS listar, töflur og form
 3.4.5 Setjið bakgrunnslitinn í #e0e9f0
 3.4.6 Setjið border top í 1 pixla breidd, solid týpuna og litinn #f1f8fe
 3.4.7 Setjið border botn í 1 pixla breidd, solid týpuna og litinn #cbd2d8
-3.4.8 Setjið border hægri í 1 pixla breidd, solid týpuna og litinn #cbd2d8
+3.4.8b Setjið border hægri í 1 pixla breidd, solid týpuna og litinn #cbd2d8
 
 3.5 Hafið áhrif á tr#head th
 3.5.1 Gefið letur litinn #fff
@@ -103,13 +103,13 @@ CSS listar, töflur og form
 3.5.8 Setjið letur breidd á 0.15 em
 
 3.6 Hefið áhrif á td töggin
-3.6.1 Setjið text-shadow með 1px 1px 1px #ffffff
+3.6.1b Setjið text-shadow með 1px 1px 1px #ffffff
 
 3.7 Hafið áhrif á tr.even td, tr.even th
-3.7.1 Setjið á bakgrunnslitinn #e8eff5
+3.7.1 bSetjið á bakgrunnslitinn #e8eff5
 
 3.8 Hafið áhrif á tr#head th:first-child
-3.8.1 Setjið border top left radius á 5 pixla
+3.8.1b Setjið border top left radius á 5 pixla
 
 3.9 Hafið áhrif á tr#head th:last-child
 3.9.1 Setjið border top right radius í 5 pixla
@@ -141,7 +141,7 @@ CSS listar, töflur og form
 3.14.3  Gefið letur litinn #ffffff
 3.14.4  Gefið border radíus 5 pixla
 3.14.5  Gefið padding 5 pixla
-3.14.6  Gefið margin topp 10 pixla
+3.14.6 b Gefið margin topp 10 pixla
 
 3.15  Hafið áhrif á input[type="submit"]:hover
 3.15.1  Gefið border breiddina 1 pixla, týpuna solid og litinn #006633
